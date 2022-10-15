@@ -1,0 +1,43 @@
+E-Commerce
+Front: React.js e Node.js + Bootstrap
+       HTML5 e CSS3
+Back: Node.js (API) Express
+Database: MySQL ou Firebase
+
+Controle de compras
+Front: React.js + Node.js + Bootstrap
+       HTML5 e CSS3
+Back: Node.js (API)
+Database: MySQL ou Firebase
+
+
+Linguagens Backend:
+PHP
+Python
+Java
+Javascript
+.NET (C#)
+
+Front-end
+HTML e CSS - linguagens de formatação de texto
+Javascript
+    React.js biblioteca
+    Bootstrap framework
+    Vue.js framework
+    Angular JS framework
+
+Back e Front
+    Typescript linguagem de programação
+
+Estrutura de um projeto:
+- Visual (front)
+  - Quais páginas teremos?
+    - Cadastros (produtos, usuário, categorias)
+    - Login (esqueci a senha)
+    - Pedidos
+    - Carrinho 
+    - Pagamento
+    - Devolução / Troca
+    - 
+  - Mock de dados
+- Arquitetura (back, banco de dados, API)
